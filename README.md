@@ -4,8 +4,7 @@ OSIRA Requires Sublist3r:
 https://github.com/aboul3la/Sublist3r
 
 Make sure to set path to Sublist3r correctly!
-	Where to find sublist3r.py
-	VULNERSDIR="/home/e/Sublist3r"
+(in osira.sh)
 
 OSIRA 0.0.1a by Shiva - An OSINT automater
 
